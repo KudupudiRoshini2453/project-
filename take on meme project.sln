@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "take on meme project", "take on meme project\take on meme project.pyproj", "{76B1C7E9-386A-4F09-BC50-2CC12B93EA52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76B1C7E9-386A-4F09-BC50-2CC12B93EA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B1C7E9-386A-4F09-BC50-2CC12B93EA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8875CEB-DDA6-4B01-99ED-81AE33207F58}
+	EndGlobalSection
+EndGlobal
